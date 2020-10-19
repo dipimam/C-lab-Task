@@ -1,0 +1,13 @@
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.exe
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.deps.json
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.runtimeconfig.json
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.runtimeconfig.dev.json
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.dll
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\bin\Debug\netcoreapp3.1\FirstCode.pdb
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.csprojAssemblyReference.cache
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.AssemblyInfoInputs.cache
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.AssemblyInfo.cs
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.csproj.CoreCompileInputs.cache
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.dll
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.pdb
+D:\Semester\Sixth semester\C#\Lab\FirstCode\FirstCode\obj\Debug\netcoreapp3.1\FirstCode.genruntimeconfig.cache
