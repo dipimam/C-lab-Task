@@ -6,7 +6,17 @@ namespace Question_5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int i=1;i<=5;i++)
+            {
+                for(int j=1;j<=5;j++)
+                {
+                    if (i == j)
+                        Console.Write(i);
+                    else
+                        Console.Write("  ");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
