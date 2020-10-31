@@ -1,0 +1,12 @@
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb
+D:\Semester\Sixth semester\C#\Lab\Lab 3\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
